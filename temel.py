@@ -1,4 +1,4 @@
-l = [1,2,3,4,5]
-for i in range(1,l):
-    print(i)
+a = 5
+b = 4
+print(a+b)
     
