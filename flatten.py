@@ -6,6 +6,5 @@ def flatten(n):
             flatten(i)
         else:
             lnew.append(i)
-
 flatten(l)
 print(lnew)
